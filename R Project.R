@@ -1,16 +1,3 @@
------------------------------------------------------------------
-  
-  title: "Project: The effect of Time and Sector on Emissions"
-course: "MSIS-642 Multivariate statistics"
-author: "Aniket"
-student_ID: "01996654"
-date: " May 10, 2022"
-
------------------------------------------------------------------
-
-
-
-
 
 library(readxl)
 Carbon_Monitor <- read_excel("Carbon Monitor.xlsx")
